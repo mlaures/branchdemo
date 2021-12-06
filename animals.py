@@ -9,6 +9,7 @@ def sounds(animal):
         print("woof")
     else:
         print("are you sure that's an animal?")
+    fjdsklfhjklshfwnelrjkldfnfdkfnsdklfj
 
 def main():
     animal = input("which animal?: ")
