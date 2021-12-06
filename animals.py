@@ -7,6 +7,8 @@ def sounds(animal):
         print("meow")
     elif animal == "dog":
         print("woof")
+    elif animal == "pig":
+	print("oink")
     else:
         print("are you sure that's an animal?")
 
